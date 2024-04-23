@@ -51,6 +51,6 @@ Tamanho das imagens = 28 x 28 x 1
 ## Bibliotecas adicionais
 Pandas (utilizado nas funções em alegrete.py)
 
-## Membros
-José Henrique - 326454\
-Gabriel Carvalho - 341600
+## Créditos
+[José](https://github.com/dev-joseh)
+[Gabriel](https://link-url-here.org)
