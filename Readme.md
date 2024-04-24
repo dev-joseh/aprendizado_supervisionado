@@ -12,7 +12,7 @@ b      = -1\
 w      = 1.5\
 alpha  = 0.01\
 n_iter = 1000\
-EQM_final: 8.53
+EQM final: 8.53
 
 **Valores iniciais aleatórios:**\
 b      = 5\
